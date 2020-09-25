@@ -1,12 +1,12 @@
 {
-    "name": "cuonggt/laravel-sendgrid-notification-channel",
+    "name": "uttamrabadiya/laravel-sendgrid-notification-channel",
     "description": "SendGrid Notification Channel for Laravel.",
     "keywords": ["laravel", "notifications", "sendgrid"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Cuong Giang",
-            "email": "thaicuong.giang@gmail.com"
+            "name": "Uttam Rabadiya",
+            "email": "mail@uttam.dev"
         }
     ],
     "require": {
